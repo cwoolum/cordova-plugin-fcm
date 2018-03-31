@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    /* Basic Options */
+
+    "target":
+      "es5" /* Specify ECMAScript target version: 'ES3' (default), 'ES5', 'ES2015', 'ES2016', 'ES2017', or 'ESNEXT'. */,
+    "module":
+      "amd" /* Specify module code generation: 'commonjs', 'amd', 'system', 'umd' or 'es2015'. */,
+
+    "strict": false /* Enable all strict type-checking options. */,
+    "lib": ["es2015", "dom"],
+    "types": [
+      "cordova",
+      "firebase",
+      "node"
+    ] /* Type declaration files to be included in compilation. */
+  }
+}

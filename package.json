@@ -31,5 +31,13 @@
     "ios"
   ],
   "engines": [],
-  "englishdoc": ""
+  "englishdoc": "",
+  "devDependencies": {
+    "@types/cordova": "0.0.34",
+    "firebase": "^4.12.1",
+    "typing": "^0.1.9"
+  },
+  "dependencies": {
+    "@types/node": "^9.6.1"
+  }
 }
